@@ -78,3 +78,8 @@ Blinkit operates across multiple product categories with high delivery velocity,
 - **Customer Retention Risk:** 19K lost customers tracked against 25K total signals a retention challenge worth addressing through loyalty or re-engagement campaigns.
 - **Category Mix:** Instant & Frozen Food and Pet Care dominate the sales category mix, guiding assortment and shelf-space strategy.  
 
+## 7. Screenshots / Demos
+
+![Blinkit Dashboard Preview](dashboard-preview.png)
+
+🔗 **Live Dashboard:** [Click here to view](https://app.powerbi.com/links/o7UPe83RPj?ctid=5b31324f-5e42-41c0-9aa4-0f6f4fa77c71&pbi_source=linkShare)
